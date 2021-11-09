@@ -1,1 +1,0 @@
-Perfil para projetos acadêmicos.
